@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chitphhong.chitphhong" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Thanapon+Phorarmart+!;NT+DEVELOPER+ALWAYS+BE+%5BLEARNING%5D+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Chitphong+Kuendee+!;NT+DEVELOPER+ALWAYS+BE+%5BLEARNING%5D+!" alt="Typing SVG" />
 </h1>
 
 <p align='center'>
@@ -18,7 +18,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nutmito&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chitphhong&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
